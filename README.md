@@ -5,3 +5,5 @@
 - predicting  prices
 
 Rated with Excellence.
+
+The pdf was written in the Greek language
